@@ -1,7 +1,7 @@
 # WD-CA1
 # Hridyansh_01_AI_D.html
 
-This HTML file is a project created by Hridyansh as part of an assignment or coursework related to Artificial Intelligence (AI).
+This HTML file is a project created by Hridyansh as part of an assignment for CA1
 
 ## Features
 
